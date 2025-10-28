@@ -12,6 +12,7 @@
 ---
 
 ## 🌱 I’m Currently Learning
+-React
 - Advanced **JavaScript & TypeScript**
 - **Angular 20** (Standalone Components)
 - **React** for front-end development
