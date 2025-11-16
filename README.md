@@ -13,8 +13,8 @@
 
 ## 🌱 I’m Currently Learning
 - Advanced **Angular & React Basics**
-- **Angular 20** (Standalone Components)
-- **React** for front-end development
+- **Angular 20** 
+- **React** 
 - **Node.js & Express.js** for backend development
 - **MongoDB & SQL** for database management
 - **Tailwind CSS & SCSS** for styling
