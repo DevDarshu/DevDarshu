@@ -5,7 +5,7 @@
 ---
 
 ## 🔭 About Me
-- I’m passionate** web developer** with **3.8 years of experience ** in building scalable, high-performance web applications.**.
+- I’m passionate web developer with **3.8 years of experience** in building scalable, high-performance web applications.
 - Currently learning **ReactJs,Tailwind CSS, Node.js & Express.js**.
 - Always curious to explore new **technologies** and **tools** in the web ecosystem.
 
