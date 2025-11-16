@@ -1,18 +1,18 @@
 # 👋 Hi, I’m Darshan K N
 
-🌐 **Full-Stack Web Developer | JavaScript & Angular Enthusiast**  
+🌐 **Full-Stack Web Developer | JavaScript & Angular **  
 
 ---
 
 ## 🔭 About Me
 - I’m passionate about **web development** and building **responsive, modern applications**.
-- Currently learning **JavaScript (ES6+), Angular 20 (Standalone Components), HTML, CSS, Tailwind CSS, Node.js & Express.js**.
+- Currently learning **ReactJs, Angular 20 (Standalone Components), HTML, CSS, Tailwind CSS, Node.js & Express.js**.
 - Always curious to explore new **technologies** and **tools** in the web ecosystem.
 
 ---
 
 ## 🌱 I’m Currently Learning
-- Advanced **JavaScript & TypeScript**
+- Advanced **Angular & React Basics**
 - **Angular 20** (Standalone Components)
 - **React** for front-end development
 - **Node.js & Express.js** for backend development
