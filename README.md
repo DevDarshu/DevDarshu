@@ -6,7 +6,7 @@
 
 ## 🔭 About Me
 - I’m passionate about **web development** and building **responsive, modern applications**.
-- Currently learning **ReactJs, Angular 20 (Standalone Components), HTML, CSS, Tailwind CSS, Node.js & Express.js**.
+- Currently learning **ReactJs,Tailwind CSS, Node.js & Express.js**.
 - Always curious to explore new **technologies** and **tools** in the web ecosystem.
 
 ---
